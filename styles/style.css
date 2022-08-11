@@ -7,7 +7,6 @@ body {
   grid-template-columns: repeat(4, 170px);
   grid-gap: 10px;
   gap: 10px;
-  padding: 10px;
 }
 
 .container {
@@ -22,7 +21,6 @@ body {
   width: 150px;
   height: 80px;
   border-radius: 5px;
-  padding: 10px;
   cursor: pointer;
   position: relative;
   transform: scale(1);
